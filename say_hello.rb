@@ -1,4 +1,4 @@
 # Build your say_hello method here
-def say_hello (kentbeck = "Hello Kent Beck!")
-puts "Hello Ruby Programmer!"
+def say_hello (rubyprogrammer) = "Hello Ruby Programmer!")
+puts "Hello Kent Beck!"
 end
